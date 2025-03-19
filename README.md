@@ -5,7 +5,7 @@
 package main
 
 import (
-	. "app/unwrap"
+	. "github.com/serge-hulne/go_unwrap"
 	"fmt"
 	"strconv"
 )
